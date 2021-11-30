@@ -506,3 +506,9 @@ h4{
     background-color: #D5D7D7;
     color: #535454;
 }
+
+.img__card{
+    height: 50px;
+    width: 130px;
+    object-position: top right;
+}
