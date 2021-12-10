@@ -508,7 +508,13 @@ h4{
 }
 
 .img__card{
-    height: 50px;
-    width: 130px;
+    height: 45px;
+    width: 110px;
+    object-position: top right;
+}
+
+.img-franchise{
+    height: 45px;
+    width: 120px;
     object-position: top right;
 }
